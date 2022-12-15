@@ -46,4 +46,3 @@ I have studying C# Advanced and C# OOP in SoftUni. I am looking forward to learn
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
