@@ -8,7 +8,7 @@
 
 I am student at SoftUni
 
-I have studying C# Advanced and C# OOP in SoftUni. I am looking forward to learn more programming languages.  
+I have been studying C# Advanced and C# OOP in SoftUni. I am looking forward to learn more programming languages.  
   
 
 - 🔭 I’m currently working on gaining more coding and programming skills  
